@@ -8,8 +8,8 @@ class Solution:
         f - 2s = x or x = f - 2s
         f - rs or f - 2s
         '''
-        f = 31
-        s = 1
+        f = 42
+        s = 12
         r = 2
         return f - r * s # by that time, son is 30 years old, father is 60 years old
 
